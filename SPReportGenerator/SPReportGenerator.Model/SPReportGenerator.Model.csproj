@@ -49,6 +49,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CascadeDropDown\Activity.cs" />
+    <Compile Include="CascadeDropDown\Project.cs" />
+    <Compile Include="CascadeDropDown\SubActivity.cs" />
+    <Compile Include="Demo\BarChartItem.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
