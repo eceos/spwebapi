@@ -8,3 +8,12 @@ D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.csprojResolveAssemblyReference.cache
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.dll
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\SPReportGenerator.Model.dll.config
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\SPReportGenerator.Model.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\SPReportGenerator.Model.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.pdb

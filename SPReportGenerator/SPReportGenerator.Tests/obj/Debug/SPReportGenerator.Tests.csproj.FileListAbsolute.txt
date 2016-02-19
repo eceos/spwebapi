@@ -34,3 +34,36 @@ D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Tests\obj
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Tests\obj\Debug\SPReportGenerator.Tests.pdb
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Model.dll
 D:\Sharepoint Development\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Model.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\csc.exe
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\System.Collections.Immutable.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\System.Reflection.Metadata.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\vbc.exe
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\VBCSCompiler.exe
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\roslyn\VBCSCompiler.exe.config
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Tests.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Tests.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Optimization.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Http.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Model.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Optimization.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Http.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\SPReportGenerator.Model.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\obj\Debug\SPReportGenerator.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\obj\Debug\SPReportGenerator.Tests.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Tests\obj\Debug\SPReportGenerator.Tests.pdb
