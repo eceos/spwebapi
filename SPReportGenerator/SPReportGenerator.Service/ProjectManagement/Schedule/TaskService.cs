@@ -8,7 +8,7 @@ using System.Collections.Generic;
 namespace SPReportGenerator.Service.ProjectManagement.Schedule
 {
     public class TaskService : ITaskService
-    {
+    { 
         public bool CreateTask(Task task)
         {
             throw new NotImplementedException();
