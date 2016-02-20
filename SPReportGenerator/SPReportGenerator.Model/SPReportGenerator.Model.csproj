@@ -50,10 +50,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CascadeDropDown\Activity.cs" />
-    <Compile Include="CascadeDropDown\Project.cs" />
-    <Compile Include="CascadeDropDown\SubActivity.cs" />
+    <Compile Include="Demo\CascadeDropDown\Activity.cs" />
+    <Compile Include="Demo\CascadeDropDown\Project.cs" />
+    <Compile Include="Demo\CascadeDropDown\SubActivity.cs" />
     <Compile Include="Demo\BarChartItem.cs" />
+    <Compile Include="ProjectManagement\Common\Activity.cs" />
+    <Compile Include="ProjectManagement\Common\ActivityVM.cs" />
+    <Compile Include="ProjectManagement\Common\Project.cs" />
+    <Compile Include="ProjectManagement\Common\SPUser.cs" />
+    <Compile Include="ProjectManagement\Schedule\Task.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -61,9 +66,9 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Finance\" />
-    <Folder Include="Indicator\" />
-    <Folder Include="Schedule\" />
+    <Folder Include="BackOffice\" />
+    <Folder Include="ProjectManagement\Finance\" />
+    <Folder Include="ProjectManagement\Result\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
