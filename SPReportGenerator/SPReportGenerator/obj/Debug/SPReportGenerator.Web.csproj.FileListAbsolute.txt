@@ -64,6 +64,7 @@ C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.ScriptManager.MSAjax.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.SharePoint.Client.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Newtonsoft.Json.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\SPReportGenerator.Model.dll
@@ -72,8 +73,10 @@ C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Web.Http.WebHost.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Web.Optimization.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\WebGrease.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.SharePoint.Client.Runtime.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\SPReportGenerator.Model.pdb
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.SharePoint.Client.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Web.Optimization.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Antlr3.Runtime.pdb
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Newtonsoft.Json.xml
@@ -81,6 +84,7 @@ C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Net.Http.Formatting.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Web.Http.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\System.Web.Http.WebHost.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\Microsoft.SharePoint.Client.Runtime.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.Web.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.pdb
