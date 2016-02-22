@@ -17,4 +17,3 @@ C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\bin\Debug\EntityFramework.SqlServer.xml
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.pdb
-C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Model\obj\Debug\SPReportGenerator.Model.csprojResolveAssemblyReference.cache

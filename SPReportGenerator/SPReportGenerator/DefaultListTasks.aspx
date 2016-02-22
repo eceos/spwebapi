@@ -1,4 +1,4 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeBehind="DefaultListTasks.aspx.cs" Inherits="SPReportGenerator.DefaultListTasks" %>
+﻿<%@ Page Title="Default View Tasks" Language="C#" AutoEventWireup="true" CodeBehind="DefaultListTasks.aspx.cs" Inherits="SPReportGenerator.DefaultListTasks" %>
 
 <!DOCTYPE html>
 

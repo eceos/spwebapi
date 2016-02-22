@@ -11,8 +11,7 @@ namespace SPReportGenerator.Controllers
     public class ActivityController : ApiController
     {
         // GET api/<controller>
-            Activity[] Activities = new Activity[]
-          {
+            Activity[] Activities = {
             new Activity  {ActivityID = 1,ActivityName="Activity 1",SubActivityID=1},
             new Activity  {ActivityID = 2,ActivityName="Activity 2",SubActivityID=1},
             new Activity  {ActivityID = 3,ActivityName="Activity 3",SubActivityID=2},
@@ -56,6 +55,7 @@ namespace SPReportGenerator.Controllers
             // DELETE api/<controller>/5
             public void Delete(int id)
             {
+
             }
         }
     }
