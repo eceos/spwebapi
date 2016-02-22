@@ -84,3 +84,5 @@ C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.Web.csprojResolveAssemblyReference.cache
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.dll
 C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\obj\Debug\SPReportGenerator.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\SPReportGenerator.Service.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator\bin\SPReportGenerator.Service.pdb

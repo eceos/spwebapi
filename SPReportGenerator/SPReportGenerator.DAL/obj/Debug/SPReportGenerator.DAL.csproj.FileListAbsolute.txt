@@ -1,0 +1,4 @@
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.DAL\bin\Debug\SPReportGenerator.DAL.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.DAL\bin\Debug\SPReportGenerator.DAL.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.DAL\obj\Debug\SPReportGenerator.DAL.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.DAL\obj\Debug\SPReportGenerator.DAL.pdb

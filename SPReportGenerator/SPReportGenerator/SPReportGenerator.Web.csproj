@@ -251,6 +251,10 @@
       <Project>{fddb89d3-0159-49b4-98ab-74e95c9d5d70}</Project>
       <Name>SPReportGenerator.Model</Name>
     </ProjectReference>
+    <ProjectReference Include="..\SPReportGenerator.Service\SPReportGenerator.Service.csproj">
+      <Project>{ae2b21be-3b61-47d6-8f99-edbdc2bf0f3d}</Project>
+      <Name>SPReportGenerator.Service</Name>
+    </ProjectReference>
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

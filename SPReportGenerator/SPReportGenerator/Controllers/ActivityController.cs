@@ -5,11 +5,21 @@ using System.Linq;
 using System.Net;
 using System.Net.Http;
 using System.Web.Http;
+using SPReportGenerator.Model.ProjectManagement.Schedule;
+using SPReportGenerator.Service.ProjectManagement.Schedule;
+using SPReportGenerator.Model.ProjectManagement.Common;
 
 namespace SPReportGenerator.Controllers
 {
     public class ActivityController : ApiController
     {
+        ITaskService taskService;
+
+        public ActivityController()
+        {
+            taskService = new TaskService();
+        }
+
         // GET api/<controller>
             Activity[] Activities = {
             new Activity  {ActivityID = 1,ActivityName="Activity 1",SubActivityID=1},
@@ -33,7 +43,13 @@ namespace SPReportGenerator.Controllers
 
             public IEnumerable<Activity> Get()
             {
-                return Activities;
+                var taskList = taskService.GetAllTask();
+                return taskList.Select(e => new Activity
+                {
+                      ActivityID = e.Percentage,
+                      ActivityName = e.Title
+                });
+            
             }
 
             // GET api/<controller>/5

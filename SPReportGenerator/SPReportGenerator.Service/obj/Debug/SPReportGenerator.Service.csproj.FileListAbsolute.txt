@@ -1,0 +1,9 @@
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\SPReportGenerator.Service.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\SPReportGenerator.Service.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\obj\Debug\SPReportGenerator.Service.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\obj\Debug\SPReportGenerator.Service.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\obj\Debug\SPReportGenerator.Service.pdb
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\Microsoft.SharePoint.Client.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\Microsoft.SharePoint.Client.xml
+C:\Users\Administrator\Source\Repos\spwebapi\SPReportGenerator\SPReportGenerator.Service\bin\Debug\Microsoft.SharePoint.Client.Runtime.xml
